@@ -12,6 +12,13 @@ jpa, mariadb, 페이징 처리, JPQL, 쿼리메서드
 - spring web
 - spring data jpa
 
+## 실습 내용
+- Entity, Repository 생성
+- 테스트 코드 작성 
+    - 더미 데이터 생성
+    - CRUD
+    - 페이징 처리
+
 ### 배운 것
 - jpa 추가 시 관련 설정들을 가져올 수 있다.
 - 이때, 적절한 db를 설정해주지 않으면 오류를 뱉어낸다.
